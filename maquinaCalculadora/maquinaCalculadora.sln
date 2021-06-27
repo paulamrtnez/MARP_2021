@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "maquinaCalculadora", "maquinaCalculadora\maquinaCalculadora.vcxproj", "{4522492B-B47B-43F0-A6F5-3B38739002A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4522492B-B47B-43F0-A6F5-3B38739002A4}.Debug|x64.ActiveCfg = Debug|x64
+		{4522492B-B47B-43F0-A6F5-3B38739002A4}.Debug|x64.Build.0 = Debug|x64
+		{4522492B-B47B-43F0-A6F5-3B38739002A4}.Debug|x86.ActiveCfg = Debug|Win32
+		{4522492B-B47B-43F0-A6F5-3B38739002A4}.Debug|x86.Build.0 = Debug|Win32
+		{4522492B-B47B-43F0-A6F5-3B38739002A4}.Release|x64.ActiveCfg = Release|x64
+		{4522492B-B47B-43F0-A6F5-3B38739002A4}.Release|x64.Build.0 = Release|x64
+		{4522492B-B47B-43F0-A6F5-3B38739002A4}.Release|x86.ActiveCfg = Release|Win32
+		{4522492B-B47B-43F0-A6F5-3B38739002A4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D61E47A1-5A88-4737-8D74-C0F89AA39483}
+	EndGlobalSection
+EndGlobal
